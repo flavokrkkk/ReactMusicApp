@@ -1,8 +1,15 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Скриншоты данного проекта
 
-Currently, two official plugins are available:
+<h2>Основная часть приложения со всеми музыкальными композициями, где виден весь его функционал</h2>
+<img src="https://github.com/flavokrkkk/ReactMusicApp/blob/main/scrins/2023-12-19_02-05-47.png">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>Реализован поиск треков и нижняя панель управления</h2>
+<img src="https://github.com/flavokrkkk/ReactMusicApp/blob/main/scrins/2023-12-19_02-06-36.png">
+
+
+
+
+
+
